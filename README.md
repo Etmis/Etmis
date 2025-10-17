@@ -6,23 +6,18 @@
       <td align="center" width="33%">
         <strong>Programming Languages</strong><br/>
         <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=cs" height="44" alt="c# logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=java" height="44" alt="java logo"/>
       </td>
       <td align="center" width="33%">
         <strong>Frontend</strong><br/>
         <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=vite" height="44" alt="vite logo"/>
       </td>
       <td align="center" width="33%">
         <strong>Build Tools</strong><br/>
         <img src="https://skillicons.dev/icons?i=gradle" height="44" alt="gradle logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=maven" height="44" alt="maven logo"/>
       </td>
     </tr>
@@ -30,23 +25,18 @@
       <td align="center" width="33%">
         <strong>Databases</strong><br/>
         <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgresql logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="mysql logo"/>
       </td>
       <td align="center" width="33%">
         <strong>DevOps &amp; Tools</strong><br/>
         <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo"/>
       </td>
       <td align="center" width="33%">
         <strong>IDE</strong><br/>
         <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="vscode logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=visualstudio" height="44" alt="visualstudio logo"/>
-        <img width="10"/>
         <img src="https://skillicons.dev/icons?i=idea" height="44" alt="intellijidea logo"/>
       </td>
     </tr>
